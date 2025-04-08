@@ -1,4 +1,4 @@
-# Marvel  Explorer
+# Marvel Explorer
 
 A simple React app to explore Marvel characters and comics using the Marvel Developer API.
 
@@ -37,6 +37,12 @@ A simple React app to explore Marvel characters and comics using the Marvel Deve
     ```bash
     npm run dev
     ```
+
+## Deployment
+
+You can view the deployed version of the app here:
+
+[Marvel Explorer - Live Demo](https://ctd-pre-work-assignment.netlify.app/)
 
 ## Notes
 
